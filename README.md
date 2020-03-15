@@ -10,9 +10,12 @@ With this project we can:
 4) View all rooms
 5) Delete customer from room
 
-I used MYSql DBMS to create a table to describe my hotel
-Connected Room by using Data Access Object and Implemented it by special class
-Also I used events that also can be handled by this class
+I used MYSql DBMS to create a table to describe my hotel.
+
+Connected Room by using Data Access Object and Implemented it by special class.
+
+Also I used events that also can be handled by this class.
+
 Annotations were very crucial to use in my project, by using @Component, @Autowired I managed to get rid of unneccesary coding.
 
 
